@@ -16,7 +16,7 @@
 I performed this task using Jupyter Notebook on my local system.
 This environment helped me run Python code, analyze data, and visualize results step by step
 
-This type of big data analysis is used in:
+This type of big data analysis is used in :
 
 E-commerce companies like Amazon, Flipkart (sales analysis)
 
